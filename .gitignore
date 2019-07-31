@@ -79,3 +79,6 @@ genesis.json
 
 # Editors
 .idea/
+
+# Virtual Environment
+.venv
